@@ -1,0 +1,27 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 75dce847-a59d-4aaa-c15f-334daf3d77a8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fda2994d-cd66-3981-44f4-4b0d804a0212
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 20
+- identifier: c4ef5f56-0884-d4e3-f45a-4c6a0acf6ac4
+  name: Projects
+  pageRef: /pages/projects
+  weight: 30
+- identifier: 35cdd279-ad37-f966-31b0-2503509bd75c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 6c5d1556-e226-f529-fbaa-6bfc2572f830
+  name: Exams
+  pageRef: /pages/exams
+  weight: 50
+- identifier: bd54a69a-c9ad-7222-950a-9a7e9eaa1bfd
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 60

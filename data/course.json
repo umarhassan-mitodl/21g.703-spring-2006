@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Spanish"
+    ]
+  ],
+  "legacy_uid": "fe39d2e9-3462-5ff5-986f-dcdc57e3d684",
+  "instructors": {
+    "content": [
+      "aadce98f-d4f3-8608-de20-134ce8fb3180",
+      "3c4992d9-a5b3-ddee-e495-ef8a061b2210"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "614c1585-f5ca-14a1-161b-5f81a3b80336",
+    "website": "21g-703-spanish-iii-spring-2006"
+  },
+  "course_title": "Spanish III",
+  "hide_download": true,
+  "course_description": "This course is the first intermediate-level course in Spanish, with a focus on grammar review, additional vocabulary, writing of essays in Spanish and enhancement of cultural awareness. Group activities and projects, and conversation are emphasized. There are detailed simulation activities, readings about literature and art from Latin America and Spain, activities with music videos and interviews, and viewings of recent films such as _El espinazo del diablo_, _Juana la loca_, and _Mar\u00eda llena eres de gracia_. Students also participate in the MITUPV Exchange [project](/courses/21g-703-spanish-iii-spring-2006/pages/projects), a multimedia-centered Web site that deals with university life at MIT, the Universidad Polit\u00e9cnica de Valencia in Spain, and other universities.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.703",
+  "course_image_thumbnail": {
+    "content": "e7d00902-f1e6-00be-99eb-984a9b150559",
+    "website": "21g-703-spanish-iii-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "6dfb0de3-12be-4cab-b97d-6f2de5c9cbb4",
+  "site_short_id": "21g.703-spring-2006",
+  "site_url_path": "courses/21g-703-spanish-iii-spring-2006",
+  "title": "Course Metadata"
+}
