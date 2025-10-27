@@ -2,8 +2,6 @@
 content_type: page
 description: Brief Overview of the MITUPV Exchange  In English and Spanish.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,7 +10,7 @@ uid: c4ef5f56-0884-d4e3-f45a-4c6a0acf6ac4
 ---
 ## Sample MITUPV Exchange Content Video
 
-([MP4 - 10 MB](https://archive.org/download/MIT21F.703S03/mitupv-220k.mp4))
+({{% resource_link "f162ab49-ce79-4aca-b0d5-2a742754592b" "MP4 - 10 MB" %}})
 
 ## Brief Overview of the MITUPV Exchange
 
@@ -24,7 +22,7 @@ Unlike other foreign language projects where the Webpage design is begun from sc
 
 On the MIT side, MITUPV Exchange is directed by Douglas Morgenstern, who also edits, compresses and uploads the videos created by MIT students. Additional sections of Spanish III have been taught in recent semesters by José Ramos who also contributes to the project. Below, there are available essays (in Spanish) written by Adolfo Plasencia, who directs work on the site at the UPV, and is also Director for Europe for the project, and by Rafael Seiz ({{% resource_link "b1f65f02-fab6-9e02-9b73-71a712e3ceef" "PDF" %}}), who coordinates the work of students studying English.
 
-The MITUPV Exchange was written up in [*Wired News*](http://www.wired.com/2002/11/college-kids-a-day-in-the-life/) in November, 2002 and in [*Syllabus Magazine/Campus Technology*](http://www.campus-technology.com/article.asp?id=8293) in November, 2003.
+The MITUPV Exchange was written up in {{% resource_link "2cab7b2c-a94f-4b78-84ca-8dba74ac6188" "*Wired News*" %}} in November, 2002 and in {{% resource_link "fa25d41c-e33a-4b3d-ba35-7a5db6be9288" "*Syllabus Magazine/Campus Technology*" %}} in November, 2003.
 
 ## Additional Information about MITUPV Exchange (in Spanish)
 

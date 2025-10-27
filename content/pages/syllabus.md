@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 75dce847-a59d-4aaa-c15f-334daf3d77a8
 ---
-Hay una lista de las actividades diarias de la clase en el [calendario](https://ocw-studio.odl.mit.edu/sites/21g-703-spanish-iii-spring-2006/type/page/edit/75dce847-a59d-4aaa-c15f-334daf3d77a8/#calendar).
+Hay una lista de las actividades diarias de la clase en el {{% resource_link "566596e4-161f-4624-8090-9456fd4c976d" "calendario" %}}.
 
 ## Course Meeting Times
 
@@ -69,7 +69,7 @@ La Asistencia a clase es de muchísima importancia. Si un alumno falta más de *
 
 ## Video de actividades
 
-([MP4 - 12 MB](https://archive.org/download/MIT21F.703S03/activities-220k.mp4))
+({{% resource_link "e2262bf1-826e-472b-983a-ff320edbb857" "MP4 - 12 MB" %}})
 
 Aquí está un video con segmentos de las siguientes actividades:
 
@@ -108,11 +108,11 @@ Trabajar en grupos con canciones (pronosticar); mirar videos de canciones.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Empezar película [*El espinazo del diablo*](http://www.elespinazodeldiablo.com/).
+Empezar película {{% resource_link "e3612359-6999-4178-9daa-d910eaf6eb29" "*El espinazo del diablo*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-*Lit. y arte*, Unidad 2; seguir con [*El espinazo del diablo*](http://www.elespinazodeldiablo.com/).
+*Lit. y arte*, Unidad 2; seguir con {{% resource_link "e3612359-6999-4178-9daa-d910eaf6eb29" "*El espinazo del diablo*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -120,19 +120,19 @@ Empezar película [*El espinazo del diablo*](http://www.elespinazodeldiablo.com/
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Seguir con [*El espinazo del diablo*](http://www.elespinazodeldiablo.com/).
+Seguir con {{% resource_link "e3612359-6999-4178-9daa-d910eaf6eb29" "*El espinazo del diablo*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-Dar resumen oral de su párrafo; seguir con [*El espinazo del diablo*](http://www.elespinazodeldiablo.com/).
+Dar resumen oral de su párrafo; seguir con {{% resource_link "e3612359-6999-4178-9daa-d910eaf6eb29" "*El espinazo del diablo*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Seguir con [*El espinazo del diablo*](http://www.elespinazodeldiablo.com/).
+Seguir con {{% resource_link "e3612359-6999-4178-9daa-d910eaf6eb29" "*El espinazo del diablo*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-Acabar con [*El espinazo del diablo*](http://www.elespinazodeldiablo.com/).
+Acabar con {{% resource_link "e3612359-6999-4178-9daa-d910eaf6eb29" "*El espinazo del diablo*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
@@ -177,9 +177,9 @@ Trabajar en grupos con la hoja sobre "Don Payasito."
 22
 {{< tdclose >}}{{< tdopen >}}
 
-Ver breve segmento de la película [*Juana la Loca*](http://www.imdb.com/title/tt0270480/).
+Ver breve segmento de la película {{% resource_link "3227c431-a0b9-4602-bbdc-748f2575d131" "*Juana la Loca*" %}}.
 
-Recibir videos de [*Juana la Loca*](http://www.imdb.com/title/tt0270480/) para compartir y ver fuera de clase (hay que acabar la película para el próximo semana).
+Recibir videos de {{% resource_link "3227c431-a0b9-4602-bbdc-748f2575d131" "*Juana la Loca*" %}} para compartir y ver fuera de clase (hay que acabar la película para el próximo semana).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -196,7 +196,7 @@ Actividad: "La universidad utópica."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-*Lit. y arte*, Unidad 5; discutir [*Juana la Loca*](http://www.imdb.com/title/tt0270480/).
+*Lit. y arte*, Unidad 5; discutir {{% resource_link "3227c431-a0b9-4602-bbdc-748f2575d131" "*Juana la Loca*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
 {{< tdclose >}}{{< tdopen >}}
@@ -208,26 +208,26 @@ Examen escrito.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29
 {{< tdclose >}}{{< tdopen >}}
-Empezar la película [*En el tiempo de las mariposas*](http://www.imdb.com/title/tt0263467/).
+Empezar la película {{% resource_link "93d74f9f-3eaa-41c4-9c1c-78781caa4dc1" "*En el tiempo de las mariposas*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 30
 {{< tdclose >}}{{< tdopen >}}
-Seguir con [*En el tiempo de las mariposas*](http://www.imdb.com/title/tt0263467/).
+Seguir con {{% resource_link "93d74f9f-3eaa-41c4-9c1c-78781caa4dc1" "*En el tiempo de las mariposas*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 31
 {{< tdclose >}}{{< tdopen >}}
-Seguir con [*En el tiempo de las mariposas*](http://www.imdb.com/title/tt0263467/).
+Seguir con {{% resource_link "93d74f9f-3eaa-41c4-9c1c-78781caa4dc1" "*En el tiempo de las mariposas*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 32
 {{< tdclose >}}{{< tdopen >}}
-Seguir con [*En el tiempo de las mariposas*](http://www.imdb.com/title/tt0263467/).
+Seguir con {{% resource_link "93d74f9f-3eaa-41c4-9c1c-78781caa4dc1" "*En el tiempo de las mariposas*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 33
 {{< tdclose >}}{{< tdopen >}}
 
 *Gramática*, capitulo 8.
 
-Acabar [*En el tiempo de las mariposas*](http://www.imdb.com/title/tt0263467/).
+Acabar {{% resource_link "93d74f9f-3eaa-41c4-9c1c-78781caa4dc1" "*En el tiempo de las mariposas*" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 34
@@ -248,23 +248,23 @@ Repaso de gramática y/o conversación.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 38
 {{< tdclose >}}{{< tdopen >}}
-*Gramática*, capitulo 10; empezar la película [*María llena eres de gracia*](http://www.mariallenaeresdegracia.com/).
+*Gramática*, capitulo 10; empezar la película {{% resource_link "25bd7f2e-0c70-4485-8edf-01966c2c5f24" "*María llena eres de gracia*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 39
 {{< tdclose >}}{{< tdopen >}}
-*Lit. y arte*, Unidad 8; seguir con [*María llena eres de gracia*](http://www.mariallenaeresdegracia.com/).
+*Lit. y arte*, Unidad 8; seguir con {{% resource_link "25bd7f2e-0c70-4485-8edf-01966c2c5f24" "*María llena eres de gracia*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 40
 {{< tdclose >}}{{< tdopen >}}
-*Gramática*, capitulo 11; seguir con [*María llena eres de gracia*](http://www.mariallenaeresdegracia.com/).
+*Gramática*, capitulo 11; seguir con {{% resource_link "25bd7f2e-0c70-4485-8edf-01966c2c5f24" "*María llena eres de gracia*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 41
 {{< tdclose >}}{{< tdopen >}}
-*Lit. y arte*, Unidad 9; seguir con [*María llena eres de gracia*](http://www.mariallenaeresdegracia.com/).
+*Lit. y arte*, Unidad 9; seguir con {{% resource_link "25bd7f2e-0c70-4485-8edf-01966c2c5f24" "*María llena eres de gracia*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 42
 {{< tdclose >}}{{< tdopen >}}
-*Gramática*, capitulo 12; acabar [*María llena eres de gracia*](http://www.mariallenaeresdegracia.com/).
+*Gramática*, capitulo 12; acabar {{% resource_link "25bd7f2e-0c70-4485-8edf-01966c2c5f24" "*María llena eres de gracia*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 43
 {{< tdclose >}}{{< tdopen >}}
