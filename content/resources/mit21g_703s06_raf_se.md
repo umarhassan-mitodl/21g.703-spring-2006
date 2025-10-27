@@ -4,8 +4,6 @@ description: ''
 file: /courses/21g-703-spanish-iii-spring-2006/b1f65f02fab69e029b7371a712e3ceef_MIT21G_703S06_raf_se.pdf
 file_size: 87874
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
